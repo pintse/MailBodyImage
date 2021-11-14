@@ -1,0 +1,15 @@
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/bin/Debug/net5.0/MailBodyImage.deps.json
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/bin/Debug/net5.0/MailBodyImage.runtimeconfig.json
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/bin/Debug/net5.0/MailBodyImage.runtimeconfig.dev.json
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/bin/Debug/net5.0/MailBodyImage.dll
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/bin/Debug/net5.0/ref/MailBodyImage.dll
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/bin/Debug/net5.0/MailBodyImage.pdb
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.csproj.AssemblyReference.cache
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.AssemblyInfoInputs.cache
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.AssemblyInfo.cs
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.csproj.CoreCompileInputs.cache
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.dll
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/ref/MailBodyImage.dll
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.pdb
+/Users/ryanchen/Data/Projects/code/dotnetcore/MailArchi/MailBodyImage/obj/Debug/net5.0/MailBodyImage.genruntimeconfig.cache
